@@ -1,0 +1,33 @@
+# Виртуальное окружение
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# CatBoost артефакты
+catboost_info/
+
+# Временные файлы
+*.tmp
+traceback.txt
+
+# Большие датасеты
+hw_2/winemag-data-130k-v2.csv
+hw_11/yellow_tripdata_2016-03-01.csv
+
+# Сгенерированные HTML-выгрузки
+hw_8/pres.slides.html
+hw_11/taxi_analysis.html
+my_projects/tokenization_report/presentation.slides.html
+
+# Черновики и вспомогательные ноутбуки
+hw_7/correct.ipynb
+hw_9/lab2.ipynb
+hw_9/sentiment-analysis-using-logistic-regression.ipynb
+
+# Временные изображения из ноутбуков
+hw_8/tmp_*.png
+newplot.png
+
+tfkp_my_visualizations
